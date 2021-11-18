@@ -1,3 +1,8 @@
+---
+title: "WHAT IS A MINDSET AND WHY IT MATTERS"
+date: 2021-11-18
+---
+
 # What Is a Mindset and Why It Matters
 
 :white_check_mark: By [Kendra Cherry](https://www.verywellmind.com/kendra-cherry-2794702) 
