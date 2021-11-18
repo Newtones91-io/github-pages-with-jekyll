@@ -26,10 +26,7 @@ On the flipside, if you have a growth mindset, you believe that your talents and
 
 Here are some fixed vs. growth mindset examples.
 
----
-Fixed Mindset: Either I’m good at it or I’m not
-Growth Mindset: 
----
+
 | Fixed Mindset      | Growth Mindset |
 |      :----:       |    :----:   |  
 | Either I’m good at it or I’m not.| I can learn to do anything I want.|
