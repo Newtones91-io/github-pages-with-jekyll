@@ -1,6 +1,7 @@
 title: Welcome to my Blog!
 author: Newtones91-io
 email: inoquendoosorio@students.pccc.edu
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Hello everyone! My name is Isaac N. Oquendo. I am a Web Development and Cyber Security Student.
   I plan to graduate with an associates deegre and a certificate in 2023. I think Github Pages is awesome and the courses they offer 
@@ -11,3 +12,5 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  Newtones91-io # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+
