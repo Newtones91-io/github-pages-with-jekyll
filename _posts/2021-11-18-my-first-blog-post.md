@@ -5,7 +5,7 @@ date: 2021-11-18
 
 # What Is a Mindset and Why It Matters
 
-:white_check_mark: By [Kendra Cherry](https://www.verywellmind.com/kendra-cherry-2794702) 
+By [Kendra Cherry](https://www.verywellmind.com/kendra-cherry-2794702) 
 Updated on April 29, 2021
 <br/>
 <br/>
